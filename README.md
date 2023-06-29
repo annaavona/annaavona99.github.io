@@ -236,7 +236,7 @@ Start exploring the data stories now and let the charisma and talent of three gr
      </div>
   
 <div class="container">
-  <a href="https://annaavona99.github.io/Luciodalla/"><img src=https://www.donnesulweb.it/wp-content/uploads/2020/09/lucio-dalla-canzoni-amore.jpg" alt="Lucio Dalla in concert" style="width:100%;" /></a> 
+  <a href="https://annaavona99.github.io/Luciodalla/"><img src=https://https://tse1.mm.bing.net/th?id=OIP.zKXKo9-kDzpu5i5Xu_pE1QHaE1&pid=Api&P=0&h=180" alt="Lucio Dalla in concert" style="width:100%;" /></a> 
   <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">Lucio Dalla in concert</span></h2></div>
 </div>
 <br /> 
