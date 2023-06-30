@@ -45,21 +45,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>The-Sound-of-Sea-home</title>
+<title>Th-ree-kittens-home</title>
 <meta name="generator" content="Jekyll v3.9.3" />
 <meta property="og:title" content="-home" />
 <meta property="og:locale" content="en_US" />
 <link rel="canonical" href="https://annaavona99.github.io/exploringlifeandworksofgreatartistsfrombologna..github.io/" />
 <meta property="og:url" content="https://annaavona99.github.io/exploringlifeandworksofgreatartistsfrombologna..github.io/" />
-<meta property="og:site_name" content="The-Sound-of-Sea-home" />
+<meta property="og:site_name" content="Th-ree-kittens-home" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="The-Sound-of-Sea-home" />
+<meta property="twitter:title" content="Th-ree-kittens-home" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"The-Sound-of-Sea-home","name":"The-Sound-of-Sea-home","url":https://annaavona99.github.io/exploringlifeandworksofgreatartistsfrombologna..github.io/}</script>
+{"@context":"https://schema.org","@type":"WebSite","headline":"Th-ree-kittens-home","name":"Th-ree-kittens-home","url":https://annaavona99.github.io/exploringlifeandworksofgreatartistsfrombologna..github.io/}</script>
 <!-- End Jekyll SEO tag -->
 
-    <link rel="stylesheet" href="/The-Sound-of-Sea-home/assets/css/style.css?v=dd01ed4da6fcf341588380a7f185754730090c18" />
+    <link rel="stylesheet" href="/Th-ree-kittens-home/assets/css/style.css?v=dd01ed4da6fcf341588380a7f185754730090c18" />
     <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
 <!-- Setup Google Analytics -->
@@ -67,7 +67,7 @@
 
 
 <!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/The-Sound-of-Sea-home/favicon.ico" -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/Th-ree-kittens-home/favicon.ico" -->
 
 <!-- end custom head snippets -->
 
@@ -80,7 +80,7 @@
 
       <html>
 <head>
-  <title>The Sound of Sea</title>
+  <title>Th-ree kittens</title>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <style>
 body {
@@ -236,7 +236,7 @@ Start exploring the data stories now and let the charisma and talent of three gr
      </div>
   
 <div class="container">
-  <a href="https://annaavona99.github.io/Luciodalla/"><img src=https://https://tse1.mm.bing.net/th?id=OIP.zKXKo9-kDzpu5i5Xu_pE1QHaE1&pid=Api&P=0&h=180" alt="Lucio Dalla in concert" style="width:100%;" /></a> 
+  <a href="https://annaavona99.github.io/Luciodalla/"><img src=https://culture.globalist.it/wp-content/uploads/sites/3/2022/02/merlin_201889800_6e4db381-a14e-4e4f-bad2-dcd04af89930-superJumbo.jpg" alt="Lucio Dalla in concert" style="width:100%;" /></a> 
   <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">Lucio Dalla in concert</span></h2></div>
 </div>
 <br /> 
