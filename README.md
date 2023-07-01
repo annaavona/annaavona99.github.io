@@ -243,9 +243,10 @@ Start exploring the data stories now and let the charisma and talent of three gr
      </div>
   
 <div class="container">
-  <a href="https://annaavona99.github.io/Luciodalla/"><img src=https://culture.globalist.it/wp-content/uploads/sites/3/2022/02/merlin_201889800_6e4db381-a14e-4e4f-bad2-dcd04af89930-superJumbo.jpg" alt="Lucio Dalla in concert" style="width:100%;" /></a> 
+  <a href="https://annaavona99.github.io/Luciodalla/"><img src="https://staticfanpage.akamaized.net/wp-content/uploads/sites/2/2019/05/lucio-dalla-1200x675.jpg" alt="Lucio Dalla in concert" style="width:100%;" /></a>
   <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">Lucio Dalla in concert</span></h2></div>
 </div>
+
 <br /> 
 <br />
 
