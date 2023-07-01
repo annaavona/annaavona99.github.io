@@ -996,19 +996,6 @@ Famous were the interviews with Richard Gere and Diego Armando Maradona. Guests 
 {"@context":"https://schema.org","@type":"WebSite","headline":"annaavona.third","name":"annaavona.third","url":"https://annaavona.github.io/annaavona.third/"}</script>
 <!-- End Jekyll SEO tag -->
 
-    <link rel="stylesheet" href="/annaavona.third/assets/css/style.css?v=6aa5dee1f2c955c369dac9c324593ea63482cfda">
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
-
-<!-- Setup Google Analytics -->
-
-
-
-<!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/annaavona.third/favicon.ico" -->
-
-<!-- end custom head snippets -->
-
-  </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
@@ -1297,7 +1284,7 @@ On the occasion of Christmas 2019 on that street luminarias were lit with the wo
       
 <div class="article">
     <div class="article-text">
-      <p> Furthermore, another artist to whom Cesare is closely linked is Freddie Mercury (and Queen in general). This great love goes back to a record by the British group given to him by his father when he was just an adolescent. According to one of his reports, when he was young his schoolmates only listened to Nirvana while he could not help but start his days with Love Of My Life. Indeed Cremonini has paid many tributes to Queen during his career: one of them is a cover of Love Of My Life. However, the very first tributes to the British group were the tattoo of Freddie Mercury’s face on his arm and the writing of the preface of a book dedicated to them. Cremonini even mentioned them in one of his songs, A Better Day, partly inspired to the Queen’s song “Mr. Bad Guy”.</p>
+      <p> Furthermore, another artist to whom Cesare is closely linked is Freddie Mercury (and Queen in general). This great love goes back to a record by the British group given to him by his father when he was just an adolescent. According to one of his reports, when he was young his schoolmates only listened to Nirvana while he could not help but start his days with Love Of My Life. Indeed Cremonini has paid many tributes to Queen during his career: one of them is a cover of Love Of My Life. However, the very first tributes to the British group were the tattoo of Freddie Mercury’s face on his arm and the writing of the preface of a book dedicated to them. Cremonini even mentioned them in one of his songs, A Better Day, partly inspired to the Queen’s song “Mr. Bad Guy”. </p>
 <br />
  <a href="https://www.instagram.com/p/Bs-qkbfgtVW/?igshid=MzRlODBiNWFlZA=="><span style="color:grey"><b></b></span></a> &lt;/p&gt;
   </div>
@@ -1347,9 +1334,6 @@ On the occasion of Christmas 2019 on that street luminarias were lit with the wo
 {"@context":"https://schema.org","@type":"WebSite","headline":"annaavona.finalreport","name":"annaavona.finalreport","url":"https://annaavona.github.io/annaavona.finalreport/"}</script>
 <!-- End Jekyll SEO tag -->
 
-    <link rel="stylesheet" href="/annaavona.finalreport/assets/css/style.css?v=5d63f7ef821ce330f543f2e0660834936f6d2c81">
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
-
 <!-- Setup Google Analytics -->
 
 
@@ -1359,7 +1343,6 @@ On the occasion of Christmas 2019 on that street luminarias were lit with the wo
 
 <!-- end custom head snippets -->
 
-  </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
@@ -1400,7 +1383,7 @@ On the occasion of Christmas 2019 on that street luminarias were lit with the wo
       
 
       <html lang="en-US">
-  <head>
+    <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
