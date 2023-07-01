@@ -213,16 +213,23 @@ body {
    <div class="w2-container">
 
 <div class="title-box">
-    <h1>The Sound of Sea</h1>
+    <h1>Th-ree kittens</h1>
   </div>
 
   <h2><em>Welcome to our website on Musical Artists from Bologna!</em></h2>
  
           <div class="article">
     <div class="white-box">
-    <p style="font-family: 'Times New Roman', serif;"> Our platform brings you three captivating data stories focused on three great musical artists from Bologna: Lucio Dalla, Raffaella Carrà and Cesare Cremonini. Let's look in more detail at what the stories are about, diving deeper into their lives and musical careers!
+    <p style="font-family: 'Times New Roman', serif;"> Our platform brings you three captivating data stories focused on three great musical artists from Bologna: Lucio Dalla, Raffaella Carrà and Cesare Cremonini. 
       <br />
       <br />
+The music has always played an important role in Bologna, thanks to Bolognese artists who contributed to the enrichment of the Italian Music History. Some of them are here presented and analysed in more details, making you discover their successful musical career, which also hides fun and curious anecdotes linked to their private life.
+Before introducing you to the three artists we’re going to analyse, a relevant fact deserves attention: Bologna was nominated Creative City of Music by UNESCO in 2006! Such award is based on the excellence of the past and the richness of the proposals of the present. 
+This is given by the fact that Bologna has been home to places used for music production and education since the 1700s.
+For instance, the most important musical chapel in Bologna is that of San Petronio, whose most prestigious symbol is an organ that is still functioning today. Moving into the university area, however, we can find the Giovan Battista Martini Conservatory, the first public music school in Italy that also had Donizetti and Rossini as students, and, in Piazza Verdi, the Teatro Comunale. 
+And now, let's look in more detail at what the stories are about, diving deeper into their lives and musical careers!     
+<br />
+<br />
 The first story is an interesting overview on Lucio Dalla's life and history of musical career. Through in-depth data analysis and fascinating visualizations, we analyzed his biography, explored part of his private past and pointed out his musical phases throughout the years, and reported his published albums which laid the groundwork for Italian songwriting in the 1980s and 1990s . Discover Lucio Dalla's life and music and be enchanted by his vast musical production characterized by unique character!
       <br />
       <br />
