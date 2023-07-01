@@ -920,11 +920,11 @@ Carrà's talents extended beyond music. She also ventured into acting and starre
 
 In the 1970s, Carrà's career took a significant turn when she transitioned into television. She hosted her own variety shows, including "Canzonissima" and "Pronto, Raffaella?" These shows featured a mix of music, dance, comedy, and interviews, and they became immensely popular in Italy and across Europe.</p>
 
-[</div>
+</div>
     <div class="article-image">
       <img src=" https://www.21secolo.news/wp-content/uploads/2022/10/Canzonissima-1970.jpg" alt="Article Image" />
     </div>
-  </div>]
+  </div>
 
 
 Carrà captivated audiences with her vibrant personality and fearless approach to life. She broke societal norms and defied conventions, becoming a symbol of liberation and self-expression. Carrà's distinctive style, characterized by bold fashion choices and daring performances, challenged traditional expectations and championed individuality. Her energetic and provocative stage presence embodied a rebellious spirit, encouraging others to embrace their true selves and embrace freedom in all its forms. Carrà's impact went far beyond entertainment, as she inspired generations to break free from societal constraints and live life on their own terms. Her legacy as a nonconformist icon and free spirit continues to inspire and resonate with audiences worldwide.&lt;/p&gt;
@@ -954,12 +954,12 @@ Famous were the interviews with Richard Gere and Diego Armando Maradona. Guests 
     <div class="article-text">
       <p>Carrà captivated audiences with her vibrant personality and fearless approach to life. She broke societal norms and defied conventions, becoming a symbol of liberation and self-expression. Carrà's distinctive style, characterized by bold fashion choices and daring performances, challenged traditional expectations and championed individuality. Her energetic and provocative stage presence embodied a rebellious spirit, encouraging others to embrace their true selves and embrace freedom in all its forms. Carrà's impact went far beyond entertainment, as she inspired generations to break free from societal constraints and live life on their own terms. Her legacy as a nonconformist icon and free spirit continues to inspire and resonate with audiences worldwide.</p>
 
-[</div>
+</div>
     <div class="article-image">
       <img src="https://www.radiobruno.it/wp-content/uploads/2021/07/Raffaella-Carra%CC%80-facebook-ok.jpg
 " alt="Article Image" />
     </div>
-  </div>]
+  </div>
 
 
 </body>
