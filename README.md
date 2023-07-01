@@ -7,7 +7,7 @@
 <!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>exploringlifeandworksofgreatartistsfrombologna</title>
 <meta name="generator" content="Jekyll v3.9.3" />
-<meta property="og:title" content="exploringlifeandworksofgreatartistsfrombologna..github.io" />
+<meta property="og:title" content="exploringlifeandworksofgreatartistsfrombologna.github.io" />
 <meta property="og:locale" content="en_US" />
 <link rel="canonical" href="https://annaavona99.github.io/exploringlifeandworksofgreatartistsfrombologna..github.io/" />
 <meta property="og:url" content="https://annaavona99.github.io/exploringlifeandworksofgreatartistsfrombologna..github.io/" />
@@ -206,9 +206,9 @@ body {
 <div class="topnav">
   <a class="active" href="#home">Home</a>
   <a href="https://annaavona99.github.io/Luciodalla/">Lucio Dalla</a> 
-  <a href="https://annaavona99.github.io/Raffaellacarra/">Raffaella Carrà</a>
-  <a href="https://annaavona99.github.io/Cesarecremoniniprincipal/">Cesare Cremonini</a> 
-  <a href="https://annaavona99.github.io/reportfinale-/">Final Report</a>
+  <a href="https://annaavona.first.github.io/Raffaellacarra/">Raffaella Carrà</a>
+  <a href="https://annaavona.second.github.io/Cesarecremoniniprincipal/">Cesare Cremonini</a> 
+  <a href="https://annaavona.finalreport.github.io/reportfinale-/">Final Report</a>
 </div>
    <div class="w2-container">
 
