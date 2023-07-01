@@ -431,7 +431,7 @@ body {
 }
 
 .topnav a.active {
-  background-color: #cada00;
+  background-color: #800000;
   color: white;
 }
 </style>
@@ -447,7 +447,7 @@ body {
     }
 
     .title-box {
-      background-color: #cada00;
+      background-color: #800000;
       padding: 10px;
       margin-bottom: 20px;
       text-align: center;
@@ -792,7 +792,7 @@ body {
 }
 
 .topnav a.active {
-  background-color: #d36e70;
+  background-color: #800000;
   color: white;
 }
 </style>
@@ -808,7 +808,7 @@ body {
     }
 
     .title-box {
-      background-color: #d36e70;
+      background-color: #800000;
       padding: 10px;
       margin-bottom: 20px;
       text-align: center;
@@ -822,7 +822,7 @@ body {
     }
 
     h2 {
-      color: #d36e70;
+      color: #800000;
       font-family: 'Encode Sans Condensed Medium';
       font-size: 20px;
       margin-top: 10px;
@@ -830,7 +830,7 @@ body {
     }
     
      h3 {
-      color: #d36e70;
+      color: #800000;
       font-family: 'Encode Sans Condensed Medium';
       font-size: 16px;
       margin-top: 17px;
@@ -989,12 +989,6 @@ Famous were the interviews with Richard Gere and Diego Armando Maradona. Guests 
   </body>
 </html>
 
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
 <!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>annaavona.third</title>
 <meta name="generator" content="Jekyll v3.9.3" />
@@ -1144,7 +1138,7 @@ body {
 }
 
 .topnav a.active {
-  background-color: #343a90;
+  background-color:#800000;
   color: white;
 }
 </style>
@@ -1160,7 +1154,7 @@ body {
     }
 
     .title-box {
-      background-color: #343a90;
+      background-color: #800000;
       padding: 10px;
       margin-bottom: 20px;
       text-align: center;
@@ -1174,7 +1168,7 @@ body {
     }
 
     h2 {
-      color: #343a90;
+      color: ##800000;
       font-family: 'Encode Sans Condensed Medium';
       font-size: 20px;
       margin-top: 10px;
@@ -1182,7 +1176,7 @@ body {
     }
     
      h3 {
-      color: #343a90;
+      color: #800000;
       font-family: 'Encode Sans Condensed Medium';
       font-size: 16px;
       margin-top: 17px;
@@ -1282,7 +1276,7 @@ Beyond his musical accomplishments, Cesare Cremonini is known for his philanthro
 
   <div class="white-box">
     <p style="font-family: 'Times New Roman', serif;"> And now, let's discover some curiosities of Cremonini's life!
-      Did you know that his song “Qualcosa di Grande – Something Big",  which won the 2000 edition of Festivalbar, was written by Cremoni when he was very young, during his elementary school period?  It is the singer-songwriter himself who declares this with a post on his Instagram profile, accompanied by photos of the sheet with the first draft of the song, in which he also explains how the idea for the song was born: he eavesdropped on a discussion that was taking place in class between a boy and a girl, classmates of the very young Cesare.
+      Did you know that his song “Qualcosa di Grande – Something Big",  which won the 2000 edition of Festivalbar, was written by Cremonini when he was very young, during his elementary school period?  It is the singer-songwriter himself who declares this with a post on his Instagram profile, accompanied by photos of the sheet with the first draft of the song, in which he also explains how the idea for the song was born: he eavesdropped on a discussion that was taking place in class between a boy and a girl, classmates of the very young Cesare.
 Isn’t that such a very cool fact?
 
 <a href="https://www.instagram.com/p/B-CSURPAGSY/?utm_source=ig_web_copy_link"><span style="color:grey"><b></b></span></a> </p>
@@ -1346,12 +1340,6 @@ On the occasion of Christmas 2019 on that street luminarias were lit with the wo
   </body>
 </html>
 
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
 <!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>annaavona.finalreport</title>
 <meta name="generator" content="Jekyll v3.9.3" />
@@ -1384,13 +1372,6 @@ On the occasion of Christmas 2019 on that street luminarias were lit with the wo
     <div class="container-lg px-3 my-5 markdown-body">
       
       <h1><a href="https://annaavona.github.io/annaavona.finalreport/">annaavona.finalreport</a></h1>
-      
-
-      <html lang="en-US">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>reportfinale-</title>
@@ -1501,7 +1482,7 @@ body {
 }
 
 .topnav a.active {
-  background-color: #F08080;
+  background-color:#800000 ;
   color: white;
 }
 </style>
@@ -1517,7 +1498,7 @@ body {
     }
 
     .title-box {
-      background-color: #F08080;
+      background-color: #800000;
       padding: 10px;
       margin-bottom: 20px;
       text-align: center;
@@ -1539,7 +1520,7 @@ body {
     }
     
      h3 {
-      color: #F08080;
+      color: #800000 ;
       font-family: 'Encode Sans Condensed Medium';
       font-size: 16px;
       margin-top: 17px;
@@ -1639,7 +1620,7 @@ Thank you for joining us on this data adventure! :)
 
   <div class="section">
     <div class="section-image">
-       <img src="blob:C:\Users\Maria Mirabile\Downloads\WhatsApp Image 2023-07-01 at 11.33.59.jpeg" alt="Image 1" width="800" height="500" />
+       <img src="blob:https://web.whatsapp.com/db62ffe4-85af-4f68-b3de-40615a28a6de.jpg" alt="Image 1" width="800" height="500" />
   
     </div>
   </div>
