@@ -567,7 +567,7 @@ Sadly, on March 1, 2012, Lucio Dalla passed away unexpectedly at the age of 68 w
     <div class="article-image">
       <img src=" https://www.musicmag.it/wp-content/uploads/2022/01/h-00058595-455055_650x0.jpg" alt="Article Image" />
     </div>
-  </div>]
+  </div>
 
 
   <div class="article">
@@ -953,14 +953,6 @@ Famous were the interviews with Richard Gere and Diego Armando Maradona. Guests 
  <div class="article">
     <div class="article-text">
       <p>Carrà captivated audiences with her vibrant personality and fearless approach to life. She broke societal norms and defied conventions, becoming a symbol of liberation and self-expression. Carrà's distinctive style, characterized by bold fashion choices and daring performances, challenged traditional expectations and championed individuality. Her energetic and provocative stage presence embodied a rebellious spirit, encouraging others to embrace their true selves and embrace freedom in all its forms. Carrà's impact went far beyond entertainment, as she inspired generations to break free from societal constraints and live life on their own terms. Her legacy as a nonconformist icon and free spirit continues to inspire and resonate with audiences worldwide.</p>
-
-</div>
-    <div class="article-image">
-      <img src="https://www.radiobruno.it/wp-content/uploads/2021/07/Raffaella-Carra%CC%80-facebook-ok.jpg
-" alt="Article Image" />
-    </div>
-  </div>
-
 
 </body>
 </html>
