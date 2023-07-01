@@ -942,13 +942,11 @@ The show would be awarded three TP de Oro, Spain's most prestigious television a
 The program takes up some things already experimented by Raffaella Carrà in "Pronto, Raffaella?" or "Ricomincio da due" however developed in a more spectacular way anticipating "Carràmba! What a surprise." 
 Guests were interviewed in the "sofa area," somewhat conveying the idea of the living room at home. In addition to the interviews Raffaella Carrà there with the guests played "Se Fosse" a mini-competition in which celebrities challenged each other to discover the hidden identity of a famous person.
 Famous were the interviews with Richard Gere and Diego Armando Maradona. Guests were both international and Spanish. Italian guests included Eros Ramazzotti, Gina Lollobrigida, Fabio Testi and Sabrina Salerno.</p>
+  
   </div>
-
- [&lt;/div&gt;
     <div class="article-image">
       <img src="blob:https://web.whatsapp.com/2527afff-1af5-4e6c-b959-f0b155e3fc3e " alt="Article Image" />
     </div>
-  &lt;/div&gt;]
 
  <div class="article">
     <div class="article-text">
@@ -1605,24 +1603,18 @@ Thank you for joining us on this data adventure! :)
 
 </body>
       </html>
-
-
       
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
   </body>
 </html>
-
-
       
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
   </body>
 </html>
-
-
       
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
