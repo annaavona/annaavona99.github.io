@@ -903,7 +903,7 @@ In the 1970s, Carrà's career took a significant turn when she transitioned into
        <img src="WhatsApp Image 2023-07-02 at 20.46.52 (1).jpeg" alt="Image 1" width="400" height="440" />
   </div>
   <div class="section-image">
-       <img src="" alt="Image 1" width="400" height="440" />
+       <img src="WhatsApp Image 2023-07-02 at 20.46.52.jpeg" alt="Image 1" width="400" height="440" />
   </div>
 
 </div>
@@ -936,6 +936,10 @@ Let's have a look at our story on MELODY! https://melody-data.github.io/stories/
 <div class="article-image">
 <img src="https://montenapodaily.com/wp-content/uploads/2021/07/Raffaella-Carra-ombelico.jpeg" alt="Article Image" />
     </div>
+    </div>
+  <div class="section-image">
+       <img src="WhatsApp Image 2023-07-02 at 20.46.52.jpeg" alt="Image 1" width="400" height="440" />
+  </div>
 
 
       
