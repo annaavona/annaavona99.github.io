@@ -1511,7 +1511,7 @@ body {
     <h1>Th-ree kittens: Final Report</h1>
   </div>
 
-  <h2><em>Written by: Anna Avona, Laura cigno, Miriam Longhitano</em></h2>
+  <h2><em>Written by: Anna Avona, Laura Cigno, Miriam Longhitano</em></h2>
  
 
   <div class="white-box">
@@ -1520,7 +1520,7 @@ body {
     <br />
     <br />
 This Melody project takes you on an exciting exploration of Bolognese Music, analysing in more detail three giants of Italian Music: Lucio Dalla, Raffaella Carra and the more recent Cesare Cremonini. First, we wondered about the topic project: our goal was to explore an engaging topic related to our lives and passions. For these reasons, we chose to focus on Bologna and some of the best singer-songwriters born in this city. After checking Polifonia and the MusicBo corpus, we explored the information available on Wikidata. In this way, we started creating our first stories hypothesis, built on what we found. We exploited this tool and the SPARQL query language to create the queries for our stories. We compare the results of different queries and decided the most suitable for our project.
-The frames of our stories took shape thanks to Melody. In order to illustrate our project, we used our queries to show charts, tables, maps, and images.
+The frames of our stories took shape thanks to Melody. In order to illustrate our project, we used our queries to show charts, tables, maps and images.
     <br />
     <br />
  Our first challenge, at first glance, was getting familiar with SPARQL query language and HTML code. Then, exploring Polifonia, MusicBo, and Wikidata, we felt a bit discouraged because our hypothesis didn't match the available data.
