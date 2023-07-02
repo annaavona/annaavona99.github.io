@@ -551,6 +551,7 @@ Sadly, on March 1, 2012, Lucio Dalla passed away unexpectedly at the age of 68 w
     <div class="article-image">
       <img src=" https://www.musicmag.it/wp-content/uploads/2022/01/h-00058595-455055_650x0.jpg" alt="Article Image" />
     </div>
+    
     <div class="section-image">
        <img src="WhatsApp Image 2023-07-02 at 20.46.19.jpeg" alt="Image 1" width="351" height="231" />
   </div>
@@ -577,12 +578,14 @@ Clothing and over-the-top behaviour have always been part of Dalla’s identity;
     <div class="article-text">
       <p>Are you sure to know where “Piazza Grande” is located?
 Indeed, the famous square “Piazza Grande” doesn’t refer to Piazza Maggiore, as many have believed for so long, but the smaller and more intimate Piazza Cavour. Here we can find the statue dedicated to Lucio. In the beginning, the song was supposed to be sung by Gianni Morandi, but Lucio insisted on singing it and in the end he won.</p>
-
 </div>
+  
     <div class="article-image">
       <img src="https://www.bologna24ore.it/wp-content/uploads/sites/7/2021/07/Bologna-statua-Dalla-piazza-Cavour-696x487.jpg " alt="Article Image" />
+       </div>
+       
     <div class="section-image">
-       <img src="WhatsApp Image 2023-07-02 at 20.46.19 (1).jpeg" alt="Image 1" width="400" height="440" />
+      <img src="WhatsApp Image 2023-07-02 at 20.46.19 (1).jpeg" alt="Image 1" width="351" height="231" />
   </div>
     
   </div>
@@ -899,11 +902,9 @@ In 1965, Carrà released her first single, "Ma che musica maestro," which became
 Carrà's talents extended beyond music. She also ventured into acting and starred in several Italian films, such as "Let's Talk About Men" and "La Viaccia." Her charisma and charm on screen led to international recognition, particularly in Spain and Latin America.
 
 In the 1970s, Carrà's career took a significant turn when she transitioned into television. She hosted her own variety shows, including "Canzonissima" and "Pronto, Raffaella?" These shows featured a mix of music, dance, comedy, and interviews, and they became immensely popular in Italy and across Europe.</p>
-<div class="section-image">
-       <img src="WhatsApp Image 2023-07-02 at 20.46.52 (1).jpeg" alt="Image 1" width="400" height="440" />
-  </div>
+      
   <div class="section-image">
-       <img src="WhatsApp Image 2023-07-02 at 20.46.52.jpeg" alt="Image 1" width="400" height="440" />
+       <img src="WhatsApp Image 2023-07-02 at 20.46.52.jpeg" alt="Image 1" width="300" height="200" />
   </div>
 
 </div>
@@ -931,14 +932,10 @@ Famous were the interviews with Richard Gere and Diego Armando Maradona. Guests 
       <p>Carrà captivated audiences with her vibrant personality and fearless approach to life. She broke societal norms and defied conventions, becoming a symbol of liberation and self-expression. Carrà's distinctive style, characterized by bold fashion choices and daring performances, challenged traditional expectations and championed individuality. Her energetic and provocative stage presence embodied a rebellious spirit, encouraging others to embrace their true selves and embrace freedom in all its forms. Carrà's impact went far beyond entertainment, as she inspired generations to break free from societal constraints and live life on their own terms. Her legacy as a nonconformist icon and free spirit continues to inspire and resonate with audiences worldwide.
         
 Let's have a look at our story on MELODY! https://melody-data.github.io/stories/published_stories/story_1687888241.377548.html</p>
-
-</div>
-<div class="article-image">
-<img src="https://montenapodaily.com/wp-content/uploads/2021/07/Raffaella-Carra-ombelico.jpeg" alt="Article Image" />
-    </div>
+    
     </div>
   <div class="section-image">
-       <img src="WhatsApp Image 2023-07-02 at 20.46.52 (2).jpeg" alt="Image 1" width="400" height="440" />
+       <img src="WhatsApp Image 2023-07-02 at 20.46.52 (2).jpeg" alt="Image 1" width="351" height="231" />
   </div>
 
       
@@ -1226,9 +1223,8 @@ Beyond his musical accomplishments, Cesare Cremonini is known for his philanthro
     </div>
     <div class="article-image">
       <img src="https://www.donnaglamour.it/wp-content/uploads/2018/07/IM_Cesare_Cremonini-1200x800.jpg" alt="Article Image" />
-  <div class="section-image">
-       <img src="WhatsApp Image 2023-07-02 at 20.45.56.jpeg" alt="Image 1" width="400" height="450" />
-  </div>
+       </div>
+    
 
   <div class="white-box">
     <p style="font-family: 'Times New Roman', serif;"> And now, let's discover some curiosities of Cremonini's life!
@@ -1264,14 +1260,18 @@ On the occasion of Christmas 2019 on that street luminarias were lit with the wo
       <p> Furthermore, another artist to whom Cesare is closely linked is Freddie Mercury (and Queen in general). This great love goes back to a record by the British group given to him by his father when he was just an adolescent. According to one of his reports, when he was young his schoolmates only listened to Nirvana while he could not help but start his days with Love Of My Life. Indeed Cremonini has paid many tributes to Queen during his career: one of them is a cover of Love Of My Life. However, the very first tributes to the British group were the tattoo of Freddie Mercury’s face on his arm and the writing of the preface of a book dedicated to them. Cremonini even mentioned them in one of his songs, A Better Day, partly inspired to the Queen’s song “Mr. Bad Guy”.
       
 Let's have a look at our story on MELODY! https://melody-data.github.io/stories/published_stories/story_1687730593.346508.html</p>
-
 </div>
+
   <div class="section-image">
-       <img src="WhatsApp Image 2023-07-02 at 20.45.51.jpeg" alt="Image 1" width="400" height="440" />
+       <img src="WhatsApp Image 2023-07-02 at 20.45.51.jpeg" alt="Image 1" width="351" height="231" />
+    </div>
+    
   <div class="section-image">
-       <img src="WhatsApp Image 2023-07-02 at 20.45.49.jpeg" alt="Image 1" width="400" height="440" />
+       <img src="WhatsApp Image 2023-07-02 at 20.45.49.jpeg" alt="Image 1" width="351" height="231" />
+    </div>
+    
   <div class="section-image">
-       <img src="WhatsApp Image 2023-07-02 at 20.45.50.jpeg" alt="Image 1" width="400" height="440" />
+       <img src="WhatsApp Image 2023-07-02 at 20.45.50.jpeg" alt="Image 1" width="351" height="231" />
   </div>
 
       <br/> 
