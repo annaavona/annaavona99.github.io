@@ -566,8 +566,8 @@ Not many people know that Lucio was also a stand-up comedian.
 In the early 60s, Dalla was part of a cabaret group with Gianni Cavina, Baldazzi, Mangano e Pizzirani. The basement where they used to perform was always empty, but it is said that once in the public there was Gianni Morandi. If there had been social media back then, we would probably have an Instagram story as proof.
 Additionally, he was a multiskilled and eclectic figure: he did cabaret, was an actor and was also a university professor of Advertising Techniques and Languages at the Carlo Bo’ University of Urbino. He played with Jimi Hendrix in concert in May ’68.
 Clothing and over-the-top behaviour have always been part of Dalla’s identity; in the early 60s, he used to wear cherries as earrings hanging them by the stem. The tiny diamond earring he always wore was of Maradona, who gave it to him during a meeting in Buenos Aires.</p>
-
 </div>
+
     <div class="article-image">
       <img src="https://www.novecento.org/wp-content/uploads/2019/07/Dalla_De_Gregori_1979.jpg" alt="Article Image" />
     </div>
@@ -585,13 +585,12 @@ Indeed, the famous square “Piazza Grande” doesn’t refer to Piazza Maggiore
        </div>
        
     <div class="section-image">
-      <img src="WhatsApp Image 2023-07-02 at 20.46.19 (1).jpeg" alt="Image 1" width="351" height="231" />
+      <img src="WhatsApp Image 2023-07-02 at 20.46.19 (1).jpeg" alt="Image 1" width="300" height="200" />
   </div>
     
   </div>
 Another curiosity that you probably don’t know is that the Stadio band owes its name to Lucio Dalla. This is because those who later became the Stadio were Lucio’s backing band in the early seventies. Curreri, the future singer of the band, joined on the Banana Republic tour with De Gregori. In 1981, Stadio was officially formed, their name was chosen by Lucio, inspired by the Bolognese sports newspaper of the same name.
-
-Let's have a look at our story on MELODY! https://melody-data.github.io/stories/published_stories/story_1687622598.865205.html</p>
+Let's have a look at our story on MELODY! https://melody-data.github.io/stories/published_stories/story_1687622598.865205.html </p>
 </div>
 
     <div class="article-image">
@@ -904,7 +903,7 @@ Carrà's talents extended beyond music. She also ventured into acting and starre
 In the 1970s, Carrà's career took a significant turn when she transitioned into television. She hosted her own variety shows, including "Canzonissima" and "Pronto, Raffaella?" These shows featured a mix of music, dance, comedy, and interviews, and they became immensely popular in Italy and across Europe.</p>
       
   <div class="section-image">
-       <img src="WhatsApp Image 2023-07-02 at 20.46.52.jpeg" alt="Image 1" width="300" height="200" />
+       <img src="WhatsApp Image 2023-07-02 at 20.46.52.jpeg" alt="Image 1" width="300" height="180" />
   </div>
 
 </div>
@@ -935,7 +934,7 @@ Let's have a look at our story on MELODY! https://melody-data.github.io/stories/
     
     </div>
   <div class="section-image">
-       <img src="WhatsApp Image 2023-07-02 at 20.46.52 (2).jpeg" alt="Image 1" width="351" height="231" />
+       <img src="WhatsApp Image 2023-07-02 at 20.46.52 (2).jpeg" alt="Image 1" width="300" height="180" />
   </div>
 
       
