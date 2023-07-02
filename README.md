@@ -226,29 +226,28 @@ And now, let's look in more detail at what the stories are about, diving deeper 
 <br />
 The first story is an interesting overview on Lucio Dalla's life and history of musical career. Through in-depth data analysis and fascinating visualizations, we analyzed his biography, explored part of his private past and pointed out his musical phases throughout the years, and reported his published albums which laid the groundwork for Italian songwriting in the 1980s and 1990s . Discover Lucio Dalla's life and music and be enchanted by his vast musical production characterized by unique character!
       <br />
+<div class="container">
+  <a href="https://annaavona99.github.io/Luciodalla/"><img src="https://staticfanpage.akamaized.net/wp-content/uploads/sites/2/2019/05/lucio-dalla-1200x675.jpg" alt="Lucio Dalla in concert" style="width:100%;" /></a>
+  <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">Lucio Dalla in concert</span></h2></div>
+</div>
+      
       <br />
 The second story is a blast from the past to the life and artistic career of Raffaella Carrà. Through representative graphs and more detailed analysis, we observed how much of the Italian music scenario is occupied by the production of the great recently deceased artist, going into more detail in the sales of her albums and the great Italian artist's cross-cultural work activities, such as acting in several movies. Go and discover some interesting facts about raffaella Carrà and immerse yourself in her story to better understand her hilarious personality!
       <br />
+
+ <div class="container">
+  <a href="https://annaavona99.github.io/Raffaellacarra/"><img src="https://media.urbanpost.it/wp-content/uploads/2021/07/raffaella-carra-malattia-630x394.jpg" alt="The charming Raffaella Carrà" style="width:100%;" /></a>
+  <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">The charming Raffaella Carrà</span></h2></div>
+</div>
+  
       <br />
      The third story deals with the life and music of a modern-day singer and songwriter, who still tours all over Italy and especially in his beloved Bologna. We briefly looked at the biography of the famous singer, then we went into more detail in his musical history that began with a band and continued as a solo artist. 
 Start exploring the data stories now and let the charisma and talent of three great Bolognese music's giants captivate you!
  </p>
   </div>
      </div>
-  
-<div class="container">
-  <a href="https://annaavona99.github.io/Luciodalla/"><img src="https://staticfanpage.akamaized.net/wp-content/uploads/sites/2/2019/05/lucio-dalla-1200x675.jpg" alt="Lucio Dalla in concert" style="width:100%;" /></a>
-  <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">Lucio Dalla in concert</span></h2></div>
-</div>
-
-<br /> 
-<br />
-
-<div class="container">
-  <a href="https://annaavona99.github.io/Raffaellacarra/"><img src="https://media.urbanpost.it/wp-content/uploads/2021/07/raffaella-carra-malattia-630x394.jpg" alt="The charming Raffaella Carrà" style="width:100%;" /></a>
-  <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">The charming Raffaella Carrà</span></h2></div>
-</div>
-  
+  <br/> 
+<br/>
 <div class="container">
   <a href="https://annaavona99.github.io/Cesarecremonini/"><img src="https://www.varesenews.it/photogallery_new/images/2022/06/cesare-cremonini-in-concerto-a-san-siro-tour-2022-1312720.610x431.jpg" alt="Cesare Cremonini strikingly performing on stage" style="width:100%;" /></a>
   <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">Cesare Cremonini strikingly performing on stage</span></h2></div>
@@ -582,15 +581,13 @@ Indeed, the famous square “Piazza Grande” doesn’t refer to Piazza Maggiore
       <img src="https://www.bologna24ore.it/wp-content/uploads/sites/7/2021/07/Bologna-statua-Dalla-piazza-Cavour-696x487.jpg " alt="Article Image" />
     </div>
   </div>
+Another curiosity that you probably don’t know is that the Stadio band owes its name to Lucio Dalla. This is because those who later became the Stadio were Lucio’s backing band in the early seventies. Curreri, the future singer of the band, joined on the Banana Republic tour with De Gregori. In 1981, Stadio was officially formed, their name was chosen by Lucio, inspired by the Bolognese sports newspaper of the same name. </p>
 
-
-Another curiosity that you probably don’t know is that the Stadio band owes its name to Lucio Dalla. This is because those who later became the Stadio were Lucio’s backing band in the early seventies. Curreri, the future singer of the band, joined on the Banana Republic tour with De Gregori. In 1981, Stadio was officially formed, their name was chosen by Lucio, inspired by the Bolognese sports newspaper of the same name.&lt;/p&gt;
-
-&lt;/div&gt;
+</div>
     <div class="article-image">
       <img src="https://images2.corriereobjects.it/methode_image/2022/02/28/Spettacoli/Foto%20Spettacoli/91-1024x681-cf-cropped-61-0-903-681.jpg" alt="Article Image" />
     </div>
-  &lt;/div&gt;
+  
 
   
 
@@ -744,7 +741,7 @@ Another curiosity that you probably don’t know is that the Stadio band owes it
 
       <html>
 <head>
-  <title>Multiplying Insights with Data Analysis: Unveiling the Spanish Rock Scene</title>
+  <title>Multiplying Insights with Data Analysis: an overview on Raffaella Carrà's life and works</title>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <style>
 body {
@@ -878,10 +875,10 @@ body {
 <body>
 
   <div class="title-box">
-    <h1>Multiplying Insights with Data Analysis: an overview on Raffaella Carrà's life and works.</h1>
+    <h1>Multiplying Insights with Data Analysis: an overview on Raffaella Carrà's life and works</h1>
   </div>
 
-  <h2><em>Written by: Anna Avona, Laura Cigno, Miriam Longhitano.</em></h2>
+  <h2><em>Written by: Anna Avona, Laura Cigno, Miriam Longhitano</em></h2>
       
   <p class="italic">In the following section of our website, we will know more about a great italian singer, but also actress and TV showgirl: Raffaella Carrà. We will focus on her life, exploring then her active life in the world of music and television.</p>
  
@@ -902,14 +899,6 @@ In the 1970s, Carrà's career took a significant turn when she transitioned into
     </div>
   </div>
 
-
-Carrà captivated audiences with her vibrant personality and fearless approach to life. She broke societal norms and defied conventions, becoming a symbol of liberation and self-expression. Carrà's distinctive style, characterized by bold fashion choices and daring performances, challenged traditional expectations and championed individuality. Her energetic and provocative stage presence embodied a rebellious spirit, encouraging others to embrace their true selves and embrace freedom in all its forms. Carrà's impact went far beyond entertainment, as she inspired generations to break free from societal constraints and live life on their own terms. Her legacy as a nonconformist icon and free spirit continues to inspire and resonate with audiences worldwide.&lt;/p&gt;
-    &lt;/div&gt;
-    <div class="article-image">
-      <img src="https://www.spain.info/.content/imagenes/cabeceras-grandes/valencia/festival-benicassim-valencia-c-christian-bertrand-s778766896.jpg" alt="Article Image" />
-    </div>
-  &lt;/div&gt;
-
   <div class="white-box">
     <p style="font-family: 'Encode Sans Condensed Medium';">Did you know that Raffaella was also a presenter on Spanish television? 
 ¡Hola Raffaella! was a television program hosted by Raffaella Carrà and broadcast by the Spanish network Televisión Española ( TVE 1). It aired live from 1992 to 1994. 
@@ -921,15 +910,17 @@ Famous were the interviews with Richard Gere and Diego Armando Maradona. Guests 
   
   </div>
     <div class="article-image">
-      <img src="blob:https://web.whatsapp.com/2527afff-1af5-4e6c-b959-f0b155e3fc3e " alt="Article Image" />
+      <img src="https://media-assets.wired.it/photos/615f47346a582a3a02a0c9c5/master/w_1600,c_limit/wired_placeholder_dummy.png" alt="Article Image" />
     </div>
 
  <div class="article">
     <div class="article-text">
       <p>Carrà captivated audiences with her vibrant personality and fearless approach to life. She broke societal norms and defied conventions, becoming a symbol of liberation and self-expression. Carrà's distinctive style, characterized by bold fashion choices and daring performances, challenged traditional expectations and championed individuality. Her energetic and provocative stage presence embodied a rebellious spirit, encouraging others to embrace their true selves and embrace freedom in all its forms. Carrà's impact went far beyond entertainment, as she inspired generations to break free from societal constraints and live life on their own terms. Her legacy as a nonconformist icon and free spirit continues to inspire and resonate with audiences worldwide.</p>
 
-</body>
-</html>
+</div>
+<div class="article-image">
+<img src="https://montenapodaily.com/wp-content/uploads/2021/07/Raffaella-Carra-ombelico.jpeg" alt="Article Image" />
+    </div>
 
 
       
@@ -1251,15 +1242,13 @@ On the occasion of Christmas 2019 on that street luminarias were lit with the wo
       
 <div class="article">
     <div class="article-text">
-      <p> Furthermore, another artist to whom Cesare is closely linked is Freddie Mercury (and Queen in general). This great love goes back to a record by the British group given to him by his father when he was just an adolescent. According to one of his reports, when he was young his schoolmates only listened to Nirvana while he could not help but start his days with Love Of My Life. Indeed Cremonini has paid many tributes to Queen during his career: one of them is a cover of Love Of My Life. However, the very first tributes to the British group were the tattoo of Freddie Mercury’s face on his arm and the writing of the preface of a book dedicated to them. Cremonini even mentioned them in one of his songs, A Better Day, partly inspired to the Queen’s song “Mr. Bad Guy”. </p>
-<br />
- <a href="https://www.instagram.com/p/Bs-qkbfgtVW/?igshid=MzRlODBiNWFlZA=="><span style="color:grey"><b></b></span></a> &lt;/p&gt;
+      <p> Furthermore, another artist to whom Cesare is closely linked is Freddie Mercury (and Queen in general). This great love goes back to a record by the British group given to him by his father when he was just an adolescent. According to one of his reports, when he was young his schoolmates only listened to Nirvana while he could not help but start his days with Love Of My Life. Indeed Cremonini has paid many tributes to Queen during his career: one of them is a cover of Love Of My Life. However, the very first tributes to the British group were the tattoo of Freddie Mercury’s face on his arm and the writing of the preface of a book dedicated to them. Cremonini even mentioned them in one of his songs, A Better Day, partly inspired to the Queen’s song “Mr. Bad Guy”.</p>
+
+      <br/> 
+      <a href="https://www.instagram.com/p/Bs-qkbfgtVW/?igshid=MzRlODBiNWFlZA==>anchor text</A>
+
   </div>
 
-
-
-&lt;/body&gt;
-      &lt;/html&gt;
 
 
       
@@ -1556,13 +1545,6 @@ Thank you for joining us on this data adventure! :)
        <img src="blob:https://web.whatsapp.com/db62ffe4-85af-4f68-b3de-40615a28a6de.jpg" alt="Image 1" width="800" height="500" />
   
     </div>
-  </div>
-<br />
-  
-
-
-</body>
-      </html>
       
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
@@ -1580,4 +1562,4 @@ Thank you for joining us on this data adventure! :)
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
   </body>
-</html>
+</html> 
