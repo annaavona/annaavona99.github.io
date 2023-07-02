@@ -552,7 +552,7 @@ Sadly, on March 1, 2012, Lucio Dalla passed away unexpectedly at the age of 68 w
       <img src=" https://www.musicmag.it/wp-content/uploads/2022/01/h-00058595-455055_650x0.jpg" alt="Article Image" />
     </div>
     <div class="section-image">
-       <img src="WhatsApp Image 2023-07-02 at 20.46.19.jpeg" alt="Image 1" width="400" height="440" />
+       <img src="WhatsApp Image 2023-07-02 at 20.46.19.jpeg" alt="Image 1" width="351" height="231" />
   </div>
 
 
