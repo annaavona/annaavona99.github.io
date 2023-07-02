@@ -203,13 +203,7 @@ body {
   </style>
 </head>
         <body>
-<div class="topnav">
-  <a class="active" href="#home">Home</a>
-  <a href="https://annaavona99.github.io/Luciodalla/">Lucio Dalla</a> 
-  <a href="https://annaavona.first.github.io/Raffaellacarra/">Raffaella Carrà</a>
-  <a href="https://annaavona.second.github.io/Cesarecremoniniprincipal/">Cesare Cremonini</a> 
-  <a href="https://annaavona.finalreport.github.io/reportfinale-/">Final Report</a>
-</div>
+          
    <div class="w2-container">
 
 <div class="title-box">
@@ -529,15 +523,6 @@ body {
   </style>
 </head>
 <body>
-
-<div class="topnav">
-  <a href="https://annaavona99.github.io/exploringlifeandworksofgreatartistsfrombologna/">Home</a>
-  <a href="https://annaavona.first.github.io/luciodallaprincipal/">Lucio Dalla</a>
-  <a href="https://annaavona.second.github.io/Raffaellacarra/">Raffaella Carrà</a>
-  <a href="https://annaavona.third.github.io/Cesarecremonini/">Cesare Cremonini</a>
-  <a href="https://annaavona.finalreport.github.io/reportfinale-/">Final Report</a>
-</div>
-
 
   <div class="title-box">
     <h1> An overview on Lucio Dalla's life and works: what you did not know about him. 
@@ -892,15 +877,6 @@ body {
 </head>
 <body>
 
-<div class="topnav">
-  <a href="https://annaavona99.github.io/exploringlifeandworksofgreatartistsfrombologna.github.io/">Home</a>
-  <a href="https://annaavona.first.github.io/luciodallaprincipal/">Lucio Dalla</a>
-  <a href="https://annaavona.second.github.io/raffaellacarra/">Raffaella Carra</a>
-  <a href="https://annaavona.third.github.io//">Cesare Cremonini</a>
-  <a href="https://annaavona.finalreport.github.io/reportfinale-/"> Final Report</a>
-</div>
-
-
   <div class="title-box">
     <h1>Multiplying Insights with Data Analysis: an overview on Raffaella Carrà's life and works.</h1>
   </div>
@@ -1214,13 +1190,6 @@ body {
 </head>
 <body>
 
-<div class="topnav">
-  <a href="https://annaavona99.github.io/exploringlifeandworksofgreatartistsfrombologna/">Home</a>
-  <a href="https://annaavona.first.github.io/luciodallaprincipal/">Lucio Dalla</a>
-  <a href="https://annaavona.second.github.io/raffaellacarra/">Raffaella Carra</a>
-  <a href="https://annaavona.third.github.io/cesarecremonini/">Cesare Cremonini</a>
-  <a href="https://annaavona.finalreport.github.io/reportfinale/">Final Report</a>
-</div>
 
 
   <div class="title-box">
@@ -1553,15 +1522,6 @@ body {
   </style>
 </head>
 <body>
-
-<div class="topnav">
-  <a href="https://annaavona.finalreport.github.io/exploringlifeandworksofgreatartistsfrombologna.github.io/">Home</a>
-  <a href="https://annaavona.finalreport.github.io/luciodallaprincipal/">Lucio Dalla</a>
-  <a href="https://annaavona.finalreport.github.io/raffaellacarra/">Raffaella Carra</a>
-  <a href="https://annaavona.finalreport.github.io/cesarecremonini/">Cesare Cremonini</a>
-  <a href="https://annaavona.finalreport.github.io/reportfinale-/">Final Report</a>
-</div>
-
 
   <div class="title-box">
     <h1>Th-ree kittens: Final Report</h1>
