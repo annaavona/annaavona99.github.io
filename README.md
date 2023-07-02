@@ -1245,17 +1245,14 @@ On the occasion of Christmas 2019 on that street luminarias were lit with the wo
       <p> Furthermore, another artist to whom Cesare is closely linked is Freddie Mercury (and Queen in general). This great love goes back to a record by the British group given to him by his father when he was just an adolescent. According to one of his reports, when he was young his schoolmates only listened to Nirvana while he could not help but start his days with Love Of My Life. Indeed Cremonini has paid many tributes to Queen during his career: one of them is a cover of Love Of My Life. However, the very first tributes to the British group were the tattoo of Freddie Mercury’s face on his arm and the writing of the preface of a book dedicated to them. Cremonini even mentioned them in one of his songs, A Better Day, partly inspired to the Queen’s song “Mr. Bad Guy”.</p>
 
       <br/> 
-<a href = “instagram://media?id=www.instagram.com/p/Bs-qkbfgtVW/?igshid=MzRlODBiNWFlZA==”>a photo that i’v toke</a>
+<a href = “instagram://media?id=www.instagram.com/p/Bs-qkbfgtVW/?igshid=MzRlODBiNWFlZA==”></a>
   </div>
-
-
 
       
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
   </body>
-</html>
 
 
       
@@ -1330,7 +1327,6 @@ On the occasion of Christmas 2019 on that street luminarias were lit with the wo
 
 <!-- end custom head snippets -->
 
-  </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
@@ -1544,18 +1540,4 @@ Thank you for joining us on this data adventure! :)
        <img src="blob:https://WhatsAppImage2023-07-01 at 11.33.59.jpg" alt="Image 1" width="800" height="500" />
   
     </div>
-      
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
-  </body>
-      
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
-  </body>
-      
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
-  </body>
+  
