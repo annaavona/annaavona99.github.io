@@ -1245,7 +1245,7 @@ On the occasion of Christmas 2019 on that street luminarias were lit with the wo
       <p> Furthermore, another artist to whom Cesare is closely linked is Freddie Mercury (and Queen in general). This great love goes back to a record by the British group given to him by his father when he was just an adolescent. According to one of his reports, when he was young his schoolmates only listened to Nirvana while he could not help but start his days with Love Of My Life. Indeed Cremonini has paid many tributes to Queen during his career: one of them is a cover of Love Of My Life. However, the very first tributes to the British group were the tattoo of Freddie Mercury’s face on his arm and the writing of the preface of a book dedicated to them. Cremonini even mentioned them in one of his songs, A Better Day, partly inspired to the Queen’s song “Mr. Bad Guy”.</p>
 
       <br/> 
-<a href = “instagram://media?id=www.instagram.com/p/Bs-qkbfgtVW/?igshid=MzRlODBiNWFlZA==”></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoYujxiwo5c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   </div>
 
       
