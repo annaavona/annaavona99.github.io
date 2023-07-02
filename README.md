@@ -938,9 +938,8 @@ Let's have a look at our story on MELODY! https://melody-data.github.io/stories/
     </div>
     </div>
   <div class="section-image">
-       <img src="WhatsApp Image 2023-07-02 at 20.46.52.jpeg" alt="Image 1" width="400" height="440" />
+       <img src="WhatsApp Image 2023-07-02 at 20.46.52 (2).jpeg" alt="Image 1" width="400" height="440" />
   </div>
-
 
       
     </div>
@@ -1227,7 +1226,8 @@ Beyond his musical accomplishments, Cesare Cremonini is known for his philanthro
     </div>
     <div class="article-image">
       <img src="https://www.donnaglamour.it/wp-content/uploads/2018/07/IM_Cesare_Cremonini-1200x800.jpg" alt="Article Image" />
-    </div>
+  <div class="section-image">
+       <img src="WhatsApp Image 2023-07-02 at 20.46.52 (2).jpeg" alt="Image 1" width="400" height="440" />
   </div>
 
   <div class="white-box">
@@ -1264,6 +1264,15 @@ On the occasion of Christmas 2019 on that street luminarias were lit with the wo
       <p> Furthermore, another artist to whom Cesare is closely linked is Freddie Mercury (and Queen in general). This great love goes back to a record by the British group given to him by his father when he was just an adolescent. According to one of his reports, when he was young his schoolmates only listened to Nirvana while he could not help but start his days with Love Of My Life. Indeed Cremonini has paid many tributes to Queen during his career: one of them is a cover of Love Of My Life. However, the very first tributes to the British group were the tattoo of Freddie Mercury’s face on his arm and the writing of the preface of a book dedicated to them. Cremonini even mentioned them in one of his songs, A Better Day, partly inspired to the Queen’s song “Mr. Bad Guy”.
       
 Let's have a look at our story on MELODY! https://melody-data.github.io/stories/published_stories/story_1687730593.346508.html</p>
+
+</div>
+  <div class="section-image">
+       <img src="WhatsApp Image 2023-07-02 at 20.46.52 (2).jpeg" alt="Image 1" width="400" height="440" />
+  <div class="section-image">
+       <img src="WhatsApp Image 2023-07-02 at 20.46.52 (2).jpeg" alt="Image 1" width="400" height="440" />
+  <div class="section-image">
+       <img src="WhatsApp Image 2023-07-02 at 20.46.52 (2).jpeg" alt="Image 1" width="400" height="440" />
+  </div>
 
       <br/> 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aoYujxiwo5c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
