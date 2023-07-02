@@ -1227,7 +1227,7 @@ Beyond his musical accomplishments, Cesare Cremonini is known for his philanthro
     <div class="article-image">
       <img src="https://www.donnaglamour.it/wp-content/uploads/2018/07/IM_Cesare_Cremonini-1200x800.jpg" alt="Article Image" />
   <div class="section-image">
-       <img src="WhatsApp Image 2023-07-02 at 20.46.52 (2).jpeg" alt="Image 1" width="400" height="440" />
+       <img src="WhatsApp Image 2023-07-02 at 20.45.56.jpeg" alt="Image 1" width="400" height="450" />
   </div>
 
   <div class="white-box">
@@ -1267,11 +1267,11 @@ Let's have a look at our story on MELODY! https://melody-data.github.io/stories/
 
 </div>
   <div class="section-image">
-       <img src="WhatsApp Image 2023-07-02 at 20.46.52 (2).jpeg" alt="Image 1" width="400" height="440" />
+       <img src="WhatsApp Image 2023-07-02 at 20.45.51.jpeg" alt="Image 1" width="400" height="440" />
   <div class="section-image">
-       <img src="WhatsApp Image 2023-07-02 at 20.46.52 (2).jpeg" alt="Image 1" width="400" height="440" />
+       <img src="WhatsApp Image 2023-07-02 at 20.45.49.jpeg" alt="Image 1" width="400" height="440" />
   <div class="section-image">
-       <img src="WhatsApp Image 2023-07-02 at 20.46.52 (2).jpeg" alt="Image 1" width="400" height="440" />
+       <img src="WhatsApp Image 2023-07-02 at 20.45.50.jpeg" alt="Image 1" width="400" height="440" />
   </div>
 
       <br/> 
