@@ -582,7 +582,7 @@ Indeed, the famous square “Piazza Grande” doesn’t refer to Piazza Maggiore
     <div class="article-image">
       <img src="https://www.bologna24ore.it/wp-content/uploads/sites/7/2021/07/Bologna-statua-Dalla-piazza-Cavour-696x487.jpg " alt="Article Image" />
     <div class="section-image">
-       <img src="WhatsAppImage2023-07-01 at 11.33.59.jpg.jpg" alt="Image 1" width="400" height="440" />
+       <img src="WhatsApp Image 2023-07-02 at 20.46.19 (1).jpeg" alt="Image 1" width="400" height="440" />
   </div>
     
   </div>
@@ -899,6 +899,12 @@ In 1965, Carrà released her first single, "Ma che musica maestro," which became
 Carrà's talents extended beyond music. She also ventured into acting and starred in several Italian films, such as "Let's Talk About Men" and "La Viaccia." Her charisma and charm on screen led to international recognition, particularly in Spain and Latin America.
 
 In the 1970s, Carrà's career took a significant turn when she transitioned into television. She hosted her own variety shows, including "Canzonissima" and "Pronto, Raffaella?" These shows featured a mix of music, dance, comedy, and interviews, and they became immensely popular in Italy and across Europe.</p>
+<div class="section-image">
+       <img src="WhatsApp Image 2023-07-02 at 20.46.19 (1).jpeg" alt="Image 1" width="400" height="440" />
+  </div>
+  <div class="section-image">
+       <img src="WhatsApp Image 2023-07-02 at 20.46.19 (1).jpeg" alt="Image 1" width="400" height="440" />
+  </div>
 
 </div>
     <div class="article-image">
@@ -914,6 +920,9 @@ The show would be awarded three TP de Oro, Spain's most prestigious television a
 The program takes up some things already experimented by Raffaella Carrà in "Pronto, Raffaella?" or "Ricomincio da due" however developed in a more spectacular way anticipating "Carràmba! What a surprise." 
 Guests were interviewed in the "sofa area," somewhat conveying the idea of the living room at home. In addition to the interviews Raffaella Carrà there with the guests played "Se Fosse" a mini-competition in which celebrities challenged each other to discover the hidden identity of a famous person.
 Famous were the interviews with Richard Gere and Diego Armando Maradona. Guests were both international and Spanish. Italian guests included Eros Ramazzotti, Gina Lollobrigida, Fabio Testi and Sabrina Salerno.</p>
+<div class="section-image">
+       <img src="WhatsApp Image 2023-07-02 at 20.46.19 (1).jpeg" alt="Image 1" width="400" height="440" />
+  </div>
   
   </div>
     <div class="article-image">
