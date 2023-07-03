@@ -519,10 +519,6 @@ body {
     }
 
 
-  </style>
-</head>
-<body>
-
   <div class="title-box">
     <h1> An overview on Lucio Dalla's life and works: what you did not know about him. 
 </h1>
@@ -551,6 +547,8 @@ Sadly, on March 1, 2012, Lucio Dalla passed away unexpectedly at the age of 68 w
     <div class="article-image">
       <img src=" https://www.musicmag.it/wp-content/uploads/2022/01/h-00058595-455055_650x0.jpg" alt="Article Image" />
     </div>
+  </div>
+
 
   <div class="article">
     <div class="article-text">
@@ -561,8 +559,8 @@ Not many people know that Lucio was also a stand-up comedian.
 In the early 60s, Dalla was part of a cabaret group with Gianni Cavina, Baldazzi, Mangano e Pizzirani. The basement where they used to perform was always empty, but it is said that once in the public there was Gianni Morandi. If there had been social media back then, we would probably have an Instagram story as proof.
 Additionally, he was a multiskilled and eclectic figure: he did cabaret, was an actor and was also a university professor of Advertising Techniques and Languages at the Carlo Bo’ University of Urbino. He played with Jimi Hendrix in concert in May ’68.
 Clothing and over-the-top behaviour have always been part of Dalla’s identity; in the early 60s, he used to wear cherries as earrings hanging them by the stem. The tiny diamond earring he always wore was of Maradona, who gave it to him during a meeting in Buenos Aires.</p>
-</div>
 
+</div>
     <div class="article-image">
       <img src="https://www.novecento.org/wp-content/uploads/2019/07/Dalla_De_Gregori_1979.jpg" alt="Article Image" />
     </div>
@@ -573,29 +571,23 @@ Clothing and over-the-top behaviour have always been part of Dalla’s identity;
     <div class="article-text">
       <p>Are you sure to know where “Piazza Grande” is located?
 Indeed, the famous square “Piazza Grande” doesn’t refer to Piazza Maggiore, as many have believed for so long, but the smaller and more intimate Piazza Cavour. Here we can find the statue dedicated to Lucio. In the beginning, the song was supposed to be sung by Gianni Morandi, but Lucio insisted on singing it and in the end he won.</p>
+
 </div>
-  
     <div class="article-image">
       <img src="https://www.bologna24ore.it/wp-content/uploads/sites/7/2021/07/Bologna-statua-Dalla-piazza-Cavour-696x487.jpg " alt="Article Image" />
-       </div>
-       
+    </div>
   </div>
-Another curiosity that you probably don’t know is that the Stadio band owes its name to Lucio Dalla. This is because those who later became the Stadio were Lucio’s backing band in the early seventies. Curreri, the future singer of the band, joined on the Banana Republic tour with De Gregori. In 1981, Stadio was officially formed, their name was chosen by Lucio, inspired by the Bolognese sports newspaper of the same name.
-Let's have a look at our story on MELODY! https://melody-data.github.io/stories/published_stories/story_1687622598.865205.html </p>
-</div>
 
+
+Another curiosity that you probably don’t know is that the Stadio band owes its name to Lucio Dalla. This is because those who later became the Stadio were Lucio’s backing band in the early seventies. Curreri, the future singer of the band, joined on the Banana Republic tour with De Gregori. In 1981, Stadio was officially formed, their name was chosen by Lucio, inspired by the Bolognese sports newspaper of the same name.&lt;/p&gt;
+
+&lt;/div&gt;
     <div class="article-image">
       <img src="https://images2.corriereobjects.it/methode_image/2022/02/28/Spettacoli/Foto%20Spettacoli/91-1024x681-cf-cropped-61-0-903-681.jpg" alt="Article Image" />
     </div>
+  &lt;/div&gt;
+
   
-<div class="section-image">
-       <img src="WhatsApp Image 2023-07-02 at 20.46.19.jpeg" alt="Image 1" width="300" height="200" />
-  </div>
-  
-   <div class="section-image">
-      <img src="WhatsApp Image 2023-07-02 at 20.46.19 (1).jpeg" alt="Image 1" width="300" height="200" />
-  </div>
-    
 
 
 </body>
@@ -618,6 +610,12 @@ Let's have a look at our story on MELODY! https://melody-data.github.io/stories/
 </html>
 
 
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>
       
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
@@ -1266,17 +1264,17 @@ https://melody-data.github.io/stories/published_stories/story_1687730593.346508.
 
 <div>
 <div class="section-image">
-       <img src="WhatsApp Image 2023-07-02 at 20.45.51.jpeg" alt="Image 1" width="300" height="200" />
+       <img src="WhatsApp Image 2023-07-02 at 20.45.51.jpeg" alt="Image 1" width="220" height="200" />
     </div>
     
   <div>
   <div class="section-image">
-       <img src="WhatsApp Image 2023-07-02 at 20.45.49.jpeg" alt="Image 1" width="300" height="200" />
+       <img src="WhatsApp Image 2023-07-02 at 20.45.49.jpeg" alt="Image 1" width="220" height="200" />
     </div>
 
   <div>
   <div class="section-image">
-       <img src="WhatsApp Image 2023-07-02 at 20.45.50.jpeg" alt="Image 1" width="300" height="200" />
+       <img src="WhatsApp Image 2023-07-02 at 20.45.50.jpeg" alt="Image 1" width="220" height="200" />
   </div>
       
     <div>
