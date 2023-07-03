@@ -532,7 +532,7 @@ body {
 </div>
 
   <div class="title-box">
-    <h1> An overview on Lucio Dalla's life and works: what you did not know about him. 
+    <h1> An overview on Lucio Dalla's life and works: what you did not know about him
 </h1>
   </div>
 
@@ -1561,6 +1561,6 @@ Thank you for joining us on this data adventure! :)
 
   <div class="section">
     <div class="section-image">
-       <img src="WhatsAppImage2023-07-01 at 11.33.59.jpg.jpg" alt="Image 1" width="350" height="500" />
+       <img src="WhatsAppImage2023-07-01 at 11.33.59.jpg.jpg" alt="Image 1" width="350" height="550" />
   </div>
   
