@@ -591,13 +591,12 @@ Indeed, the famous square “Piazza Grande” doesn’t refer to Piazza Maggiore
   </div>
 
 
-Another curiosity that you probably don’t know is that the Stadio band owes its name to Lucio Dalla. This is because those who later became the Stadio were Lucio’s backing band in the early seventies. Curreri, the future singer of the band, joined on the Banana Republic tour with De Gregori. In 1981, Stadio was officially formed, their name was chosen by Lucio, inspired by the Bolognese sports newspaper of the same name.</p>
+<p>Another curiosity that you probably don’t know is that the Stadio band owes its name to Lucio Dalla. This is because those who later became the Stadio were Lucio’s backing band in the early seventies. Curreri, the future singer of the band, joined on the Banana Republic tour with De Gregori. In 1981, Stadio was officially formed, their name was chosen by Lucio, inspired by the Bolognese sports newspaper of the same name.</p>
 
 </div>
     <div class="article-image">
       <img src="https://images2.corriereobjects.it/methode_image/2022/02/28/Spettacoli/Foto%20Spettacoli/91-1024x681-cf-cropped-61-0-903-681.jpg" alt="Article Image" />
     </div>
-  </div>
 
   
 
