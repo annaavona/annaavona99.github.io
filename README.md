@@ -584,10 +584,6 @@ Indeed, the famous square “Piazza Grande” doesn’t refer to Piazza Maggiore
       <img src="https://www.bologna24ore.it/wp-content/uploads/sites/7/2021/07/Bologna-statua-Dalla-piazza-Cavour-696x487.jpg " alt="Article Image" />
        </div>
        
-    <div class="section-image">
-      <img src="WhatsApp Image 2023-07-02 at 20.46.19 (1).jpeg" alt="Image 1" width="300" height="200" />
-  </div>
-    
   </div>
 Another curiosity that you probably don’t know is that the Stadio band owes its name to Lucio Dalla. This is because those who later became the Stadio were Lucio’s backing band in the early seventies. Curreri, the future singer of the band, joined on the Banana Republic tour with De Gregori. In 1981, Stadio was officially formed, their name was chosen by Lucio, inspired by the Bolognese sports newspaper of the same name.
 Let's have a look at our story on MELODY! https://melody-data.github.io/stories/published_stories/story_1687622598.865205.html </p>
@@ -598,7 +594,10 @@ Let's have a look at our story on MELODY! https://melody-data.github.io/stories/
     </div>
   
 
-  
+   <div class="section-image">
+      <img src="WhatsApp Image 2023-07-02 at 20.46.19 (1).jpeg" alt="Image 1" width="300" height="200" />
+  </div>
+    
 
 
 </body>
@@ -1258,29 +1257,33 @@ On the occasion of Christmas 2019 on that street luminarias were lit with the wo
     <div class="article-text">
       <p> Furthermore, another artist to whom Cesare is closely linked is Freddie Mercury (and Queen in general). This great love goes back to a record by the British group given to him by his father when he was just an adolescent. According to one of his reports, when he was young his schoolmates only listened to Nirvana while he could not help but start his days with Love Of My Life. Indeed Cremonini has paid many tributes to Queen during his career: one of them is a cover of Love Of My Life. However, the very first tributes to the British group were the tattoo of Freddie Mercury’s face on his arm and the writing of the preface of a book dedicated to them. Cremonini even mentioned them in one of his songs, A Better Day, partly inspired to the Queen’s song “Mr. Bad Guy”.
       
-Let's have a look at our story on MELODY! https://melody-data.github.io/stories/published_stories/story_1687730593.346508.html</p>
+Let's have a look at our story on MELODY! https://melody-data.github.io/stories/published_stories/story_1687730593.346508.html </p>
 </div>
 
-  <div class="section-image">
-       <img src="WhatsApp Image 2023-07-02 at 20.45.51.jpeg" alt="Image 1" width="351" height="231" />
+<div>
+<div class="section-image">
+       <img src="WhatsApp Image 2023-07-02 at 20.45.51.jpeg" alt="Image 1" width="300" height="200" />
     </div>
     
+  <div>
   <div class="section-image">
-       <img src="WhatsApp Image 2023-07-02 at 20.45.49.jpeg" alt="Image 1" width="351" height="231" />
+       <img src="WhatsApp Image 2023-07-02 at 20.45.49.jpeg" alt="Image 1" width="300" height="200" />
     </div>
-    
+
+  <div>
   <div class="section-image">
-       <img src="WhatsApp Image 2023-07-02 at 20.45.50.jpeg" alt="Image 1" width="351" height="231" />
+       <img src="WhatsApp Image 2023-07-02 at 20.45.50.jpeg" alt="Image 1" width="300" height="200" />
   </div>
 
-      <br/> 
+  <div> 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aoYujxiwo5c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  </div>
 
       
-    </div>
+    <div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
+    </div>
+    
   </body>
 
 
