@@ -1242,7 +1242,10 @@ Beyond his musical accomplishments, Cesare Cremonini is known for his philanthro
   <div class="white-box">
     <p style="font-family: 'Times New Roman', serif;"> And now, let's discover some curiosities of Cremonini's life!
       Did you know that his song “Qualcosa di Grande – Something Big",  which won the 2000 edition of Festivalbar, was written by Cremonini when he was very young, during his elementary school period?  It is the singer-songwriter himself who declares this with a post on his Instagram profile, accompanied by photos of the sheet with the first draft of the song, in which he also explains how the idea for the song was born: he eavesdropped on a discussion that was taking place in class between a boy and a girl, classmates of the very young Cesare.
-Isn’t that such a very cool fact? </p>
+Isn’t that such a very cool fact?
+
+<a href="https://www.instagram.com/p/B-CSURPAGSY/?utm_source=ig_web_copy_link"><span style="color:grey"><b></b></span></a> </p>
+  </div>
 
   <div class="article">
     <div class="article-text">
@@ -1277,18 +1280,28 @@ https://melody-data.github.io/stories/published_stories/story_1687730593.346508.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aoYujxiwo5c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
       
-    <div>
+    </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
-    </div>
-     </body>
+  </body>
+</html>
+
 
       
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
-    </body>
-    </html>
+  </body>
+</html>
+</div></body></html>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>annaavona.finalreport</title>
