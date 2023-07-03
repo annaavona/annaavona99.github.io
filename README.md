@@ -1286,7 +1286,7 @@ https://melody-data.github.io/stories/published_stories/story_1687730593.346508.
 
 <div>
 <div class="section-image">
-<img src="My project-1.jpg" alt="Image 1" width="450" height="190" />
+<img src="My project-1.jpg" alt="Image 1" width="450" height="180" />
 </div>
 
       
