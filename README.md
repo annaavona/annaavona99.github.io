@@ -591,13 +591,13 @@ Indeed, the famous square “Piazza Grande” doesn’t refer to Piazza Maggiore
   </div>
 
 
-Another curiosity that you probably don’t know is that the Stadio band owes its name to Lucio Dalla. This is because those who later became the Stadio were Lucio’s backing band in the early seventies. Curreri, the future singer of the band, joined on the Banana Republic tour with De Gregori. In 1981, Stadio was officially formed, their name was chosen by Lucio, inspired by the Bolognese sports newspaper of the same name.&lt;/p&gt;
+Another curiosity that you probably don’t know is that the Stadio band owes its name to Lucio Dalla. This is because those who later became the Stadio were Lucio’s backing band in the early seventies. Curreri, the future singer of the band, joined on the Banana Republic tour with De Gregori. In 1981, Stadio was officially formed, their name was chosen by Lucio, inspired by the Bolognese sports newspaper of the same name.</p>
 
-&lt;/div&gt;
+</div>
     <div class="article-image">
       <img src="https://images2.corriereobjects.it/methode_image/2022/02/28/Spettacoli/Foto%20Spettacoli/91-1024x681-cf-cropped-61-0-903-681.jpg" alt="Article Image" />
     </div>
-  &lt;/div&gt;
+  </div>
 
   
 
@@ -1293,15 +1293,8 @@ https://melody-data.github.io/stories/published_stories/story_1687730593.346508.
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
-  </body>
-</html>
-
-      
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
-  </body>
-</html>
+    </body>
+    </html>
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>annaavona.finalreport</title>
@@ -1568,6 +1561,6 @@ Thank you for joining us on this data adventure! :)
 
   <div class="section">
     <div class="section-image">
-       <img src="WhatsAppImage2023-07-01 at 11.33.59.jpg.jpg" alt="Image 1" width="350" height="450" />
+       <img src="WhatsAppImage2023-07-01 at 11.33.59.jpg.jpg" alt="Image 1" width="350" height="500" />
   </div>
   
