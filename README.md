@@ -1276,18 +1276,17 @@ https://melody-data.github.io/stories/published_stories/story_1687730593.346508.
 <div> 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aoYujxiwo5c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-      
-    <div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
-    </div>
-    
-  </body>
 
 <div>
 <div class="section-image">
 <img src="My project-1.jpg" alt="Image 1" width="450" height="180" />
 </div>
+      
+    <div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+    </div>
+     </body>
 
       
     </div>
