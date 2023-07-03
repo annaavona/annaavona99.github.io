@@ -1567,6 +1567,3 @@ Thank you for joining us on this data adventure! :)
     <div class="section-image">
        <img src="WhatsAppImage2023-07-01 at 11.33.59.jpg.jpg" alt="Image 1" width="350" height="550" />
   </div>
-
-  </body>
-  </html>
