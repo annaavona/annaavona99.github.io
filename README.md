@@ -271,9 +271,9 @@ Start exploring the data stories now and let the charisma and talent of three gr
 
 <html lang="en-US">
   <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>annaavona.first</title>
@@ -290,7 +290,7 @@ Start exploring the data stories now and let the charisma and talent of three gr
 {"@context":"https://schema.org","@type":"WebSite","headline":"annaavona.first","name":"annaavona.first","url":"https://annaavona.github.io/annaavona.first/"}</script>
 <!-- End Jekyll SEO tag -->
 
-    <link rel="stylesheet" href="/annaavona.first/assets/css/style.css?v=e652189ebcd1c8eea693541ac371229e2331dc77">
+    <link rel="stylesheet" href="/annaavona.first/assets/css/style.css?v=e652189ebcd1c8eea693541ac371229e2331dc77" />
     <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
 <!-- Setup Google Analytics -->
@@ -519,6 +519,18 @@ body {
     }
 
 
+  </style>
+</head>
+<body>
+
+<div class="topnav">
+  <a href="https://annaavona99/home/">Home</a>
+  <a class="active" href="https://annaavona.first.github.io/Lucio-Dalla/">Lucio Dalla</a>
+  <a href="https://annaavona.second.github.io/Raffaella-Carra/">Raffaella Carrà</a>
+  <a href="https://annaavona-third.io/Cesare-Cremonini/">Cesare Cremonini</a>
+  <a href="https://annaavona.finalreport.github.io/Final-report/">Final report</a>
+</div>
+
   <div class="title-box">
     <h1> An overview on Lucio Dalla's life and works: what you did not know about him. 
 </h1>
@@ -610,12 +622,6 @@ Another curiosity that you probably don’t know is that the Stadio band owes it
 </html>
 
 
-      
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
-  </body>
-</html>
       
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
@@ -925,7 +931,8 @@ Famous were the interviews with Richard Gere and Diego Armando Maradona. Guests 
     <div class="article-text">
       <p>Carrà captivated audiences with her vibrant personality and fearless approach to life. She broke societal norms and defied conventions, becoming a symbol of liberation and self-expression. Carrà's distinctive style, characterized by bold fashion choices and daring performances, challenged traditional expectations and championed individuality. Her energetic and provocative stage presence embodied a rebellious spirit, encouraging others to embrace their true selves and embrace freedom in all its forms. Carrà's impact went far beyond entertainment, as she inspired generations to break free from societal constraints and live life on their own terms. Her legacy as a nonconformist icon and free spirit continues to inspire and resonate with audiences worldwide.
         
-Let's have a look at our story on MELODY! https://melody-data.github.io/stories/published_stories/story_1687888241.377548.html</p>
+Let's have a look at our story on MELODY! 
+https://melody-data.github.io/stories/published_stories/story_1687888241.377548.html</p>
     
     </div>
   <div class="section-image">
@@ -1403,7 +1410,7 @@ https://melody-data.github.io/stories/published_stories/story_1687730593.346508.
 
       <html>
 <head>
-  <title>All at once: Finale report</title>
+  <title>Th-ree kittens: Finale report</title>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <style>
 body {
