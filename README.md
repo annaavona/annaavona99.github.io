@@ -904,7 +904,7 @@ Carrà's talents extended beyond music. She also ventured into acting and starre
 In the 1970s, Carrà's career took a significant turn when she transitioned into television. She hosted her own variety shows, including "Canzonissima" and "Pronto, Raffaella?" These shows featured a mix of music, dance, comedy, and interviews, and they became immensely popular in Italy and across Europe.</p>
       
   <div class="section-image">
-       <img src="WhatsApp Image 2023-07-02 at 20.46.52.jpeg" alt="Image 1" width="300" height="180" />
+       <img src="WhatsApp Image 2023-07-02 at 20.46.52.jpeg" alt="Image 1" width="300" height="190" />
   </div>
 
 </div>
@@ -962,7 +962,13 @@ https://melody-data.github.io/stories/published_stories/story_1687888241.377548.
   </body>
 </html>
 
-<!-- Begin Jekyll SEO tag v2.8.0 -->
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+    
 <title>annaavona.third</title>
 <meta name="generator" content="Jekyll v3.9.3" />
 <meta property="og:title" content="annaavona.third" />
@@ -1197,7 +1203,13 @@ body {
 </head>
 <body>
 
-
+<div class="topnav">
+  <a href="https://annaavona99/home/">Home</a>
+  <a class="active" href="https://annaavona.first.github.io/Lucio-Dalla/">Lucio Dalla</a>
+  <a href="https://annaavona.second.github.io/Raffaella-Carra/">Raffaella Carrà</a>
+  <a href="https://annaavona-third.io/Cesare-Cremonini/">Cesare Cremonini</a>
+  <a href="https://annaavona.finalreport.github.io/Final-report/">Final report</a>
+</div>
 
   <div class="title-box">
     <h1>Multiplying Insights with Data Analysis: Life, music and curiosities about Cesare Cremonini</h1>
@@ -1224,8 +1236,8 @@ Beyond his musical accomplishments, Cesare Cremonini is known for his philanthro
     </div>
     <div class="article-image">
       <img src="https://www.donnaglamour.it/wp-content/uploads/2018/07/IM_Cesare_Cremonini-1200x800.jpg" alt="Article Image" />
-       </div>
-    
+    </div>
+  </div>
 
   <div class="white-box">
     <p style="font-family: 'Times New Roman', serif;"> And now, let's discover some curiosities of Cremonini's life!
@@ -1251,16 +1263,15 @@ On the occasion of Christmas 2019 on that street luminarias were lit with the wo
     <div class="article-text">
       <p> A further interesting fact about the artist Cesare Cremonini is the connection with the great Lucio Dalla, which is not limited to the hometown that they have in common. In fact, Cremonini feels very close to the singer-songwriter, so much so that he dedicated one of his most successful songs, Io e Anna – published in his 2014 album LOGICO – a sort of sequel to the famous Anna and Marco by Lucio Dalla.</p>
     </div>
-
-    <div>
     <div class="article-image">
       <img src="https://www.radiomontecarlo.net/resizer/576/324/true/Collage_Maker-23-Jun-2022-12.52-PM-1655981534497.jpg--cesare_cremonini_e_lucio_dalla__il_duetto_inedito_in_video.jpg?1655981534595" alt="Article Image" />
     </div>
-    
-  </div>    
+  </div>
+      
 <div class="article">
     <div class="article-text">
-      <p> Furthermore, another artist to whom Cesare is closely linked is Freddie Mercury (and Queen in general). This great love goes back to a record by the British group given to him by his father when he was just an adolescent. According to one of his reports, when he was young his schoolmates only listened to Nirvana while he could not help but start his days with Love Of My Life. Indeed Cremonini has paid many tributes to Queen during his career: one of them is a cover of Love Of My Life. However, the very first tributes to the British group were the tattoo of Freddie Mercury’s face on his arm and the writing of the preface of a book dedicated to them. Cremonini even mentioned them in one of his songs, A Better Day, partly inspired to the Queen’s song “Mr. Bad Guy”.      
+      <p> Furthermore, another artist to whom Cesare is closely linked is Freddie Mercury (and Queen in general). This great love goes back to a record by the British group given to him by his father when he was just an adolescent. According to one of his reports, when he was young his schoolmates only listened to Nirvana while he could not help but start his days with Love Of My Life. Indeed Cremonini has paid many tributes to Queen during his career: one of them is a cover of Love Of My Life. However, the very first tributes to the British group were the tattoo of Freddie Mercury’s face on his arm and the writing of the preface of a book dedicated to them. Cremonini even mentioned them in one of his songs, A Better Day, partly inspired to the Queen’s song “Mr. Bad Guy”.
+
 Let's have a look at our story on MELODY! 
 https://melody-data.github.io/stories/published_stories/story_1687730593.346508.html</p>
 </div>
@@ -1268,21 +1279,6 @@ https://melody-data.github.io/stories/published_stories/story_1687730593.346508.
 <div> 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aoYujxiwo5c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-
-<div>
-<div class="section-image">
-       <img src="WhatsApp Image 2023-07-02 at 20.45.51.jpeg" alt="Image 1" width="220" height="200" />
-    </div>
-    
-  <div>
-  <div class="section-image">
-       <img src="WhatsApp Image 2023-07-02 at 20.45.49.jpeg" alt="Image 1" width="220" height="200" />
-    </div>
-
-  <div>
-  <div class="section-image">
-       <img src="WhatsApp Image 2023-07-02 at 20.45.50.jpeg" alt="Image 1" width="220" height="200" />
-  </div>
       
     <div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
@@ -1291,6 +1287,10 @@ https://melody-data.github.io/stories/published_stories/story_1687730593.346508.
     
   </body>
 
+<div>
+<div class="section-image">
+       <img src="My project-1.jpg" alt="Image 1" width="450" height="190" />
+    </div>
 
       
     </div>
