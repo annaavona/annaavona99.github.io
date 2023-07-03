@@ -551,11 +551,6 @@ Sadly, on March 1, 2012, Lucio Dalla passed away unexpectedly at the age of 68 w
     <div class="article-image">
       <img src=" https://www.musicmag.it/wp-content/uploads/2022/01/h-00058595-455055_650x0.jpg" alt="Article Image" />
     </div>
-    
-    <div class="section-image">
-       <img src="WhatsApp Image 2023-07-02 at 20.46.19.jpeg" alt="Image 1" width="351" height="231" />
-  </div>
-
 
   <div class="article">
     <div class="article-text">
@@ -593,7 +588,10 @@ Let's have a look at our story on MELODY! https://melody-data.github.io/stories/
       <img src="https://images2.corriereobjects.it/methode_image/2022/02/28/Spettacoli/Foto%20Spettacoli/91-1024x681-cf-cropped-61-0-903-681.jpg" alt="Article Image" />
     </div>
   
-
+<div class="section-image">
+       <img src="WhatsApp Image 2023-07-02 at 20.46.19.jpeg" alt="Image 1" width="300" height="200" />
+  </div>
+  
    <div class="section-image">
       <img src="WhatsApp Image 2023-07-02 at 20.46.19 (1).jpeg" alt="Image 1" width="300" height="200" />
   </div>
@@ -1248,16 +1246,22 @@ On the occasion of Christmas 2019 on that street luminarias were lit with the wo
     <div class="article-text">
       <p> A further interesting fact about the artist Cesare Cremonini is the connection with the great Lucio Dalla, which is not limited to the hometown that they have in common. In fact, Cremonini feels very close to the singer-songwriter, so much so that he dedicated one of his most successful songs, Io e Anna – published in his 2014 album LOGICO – a sort of sequel to the famous Anna and Marco by Lucio Dalla.</p>
     </div>
+
+    <div>
     <div class="article-image">
       <img src="https://www.radiomontecarlo.net/resizer/576/324/true/Collage_Maker-23-Jun-2022-12.52-PM-1655981534497.jpg--cesare_cremonini_e_lucio_dalla__il_duetto_inedito_in_video.jpg?1655981534595" alt="Article Image" />
     </div>
-  </div>
-      
+    
+  </div>    
 <div class="article">
     <div class="article-text">
-      <p> Furthermore, another artist to whom Cesare is closely linked is Freddie Mercury (and Queen in general). This great love goes back to a record by the British group given to him by his father when he was just an adolescent. According to one of his reports, when he was young his schoolmates only listened to Nirvana while he could not help but start his days with Love Of My Life. Indeed Cremonini has paid many tributes to Queen during his career: one of them is a cover of Love Of My Life. However, the very first tributes to the British group were the tattoo of Freddie Mercury’s face on his arm and the writing of the preface of a book dedicated to them. Cremonini even mentioned them in one of his songs, A Better Day, partly inspired to the Queen’s song “Mr. Bad Guy”.
-      
-Let's have a look at our story on MELODY! https://melody-data.github.io/stories/published_stories/story_1687730593.346508.html </p>
+      <p> Furthermore, another artist to whom Cesare is closely linked is Freddie Mercury (and Queen in general). This great love goes back to a record by the British group given to him by his father when he was just an adolescent. According to one of his reports, when he was young his schoolmates only listened to Nirvana while he could not help but start his days with Love Of My Life. Indeed Cremonini has paid many tributes to Queen during his career: one of them is a cover of Love Of My Life. However, the very first tributes to the British group were the tattoo of Freddie Mercury’s face on his arm and the writing of the preface of a book dedicated to them. Cremonini even mentioned them in one of his songs, A Better Day, partly inspired to the Queen’s song “Mr. Bad Guy”.      
+Let's have a look at our story on MELODY! 
+https://melody-data.github.io/stories/published_stories/story_1687730593.346508.html</p>
+</div>
+
+<div> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoYujxiwo5c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 <div>
@@ -1274,10 +1278,6 @@ Let's have a look at our story on MELODY! https://melody-data.github.io/stories/
   <div class="section-image">
        <img src="WhatsApp Image 2023-07-02 at 20.45.50.jpeg" alt="Image 1" width="300" height="200" />
   </div>
-
-  <div> 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoYujxiwo5c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
       
     <div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
@@ -1566,6 +1566,6 @@ Thank you for joining us on this data adventure! :)
 
   <div class="section">
     <div class="section-image">
-       <img src="WhatsAppImage2023-07-01 at 11.33.59.jpg.jpg" alt="Image 1" width="400" height="440" />
+       <img src="WhatsAppImage2023-07-01 at 11.33.59.jpg.jpg" alt="Image 1" width="350" height="440" />
   </div>
   
