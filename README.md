@@ -1275,6 +1275,12 @@ On the occasion of Christmas 2019 on that street luminarias were lit with the wo
 Let's have a look at our story on MELODY! 
 https://melody-data.github.io/stories/published_stories/story_1687730593.346508.html</p>
 </div>
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>
 
 <div> 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aoYujxiwo5c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -1285,15 +1291,7 @@ https://melody-data.github.io/stories/published_stories/story_1687730593.346508.
     <script>anchors.add();</script>
   </body>
 </html>
-
-
-      
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
-  </body>
-</html>
-</div></body></html>
+</div>
 
 
       
