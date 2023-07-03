@@ -1242,10 +1242,7 @@ Beyond his musical accomplishments, Cesare Cremonini is known for his philanthro
   <div class="white-box">
     <p style="font-family: 'Times New Roman', serif;"> And now, let's discover some curiosities of Cremonini's life!
       Did you know that his song “Qualcosa di Grande – Something Big",  which won the 2000 edition of Festivalbar, was written by Cremonini when he was very young, during his elementary school period?  It is the singer-songwriter himself who declares this with a post on his Instagram profile, accompanied by photos of the sheet with the first draft of the song, in which he also explains how the idea for the song was born: he eavesdropped on a discussion that was taking place in class between a boy and a girl, classmates of the very young Cesare.
-Isn’t that such a very cool fact?
-
-<a href="https://www.instagram.com/p/B-CSURPAGSY/?utm_source=ig_web_copy_link"><span style="color:grey"><b></b></span></a> </p>
-  </div>
+Isn’t that such a very cool fact? </p>
 
   <div class="article">
     <div class="article-text">
@@ -1289,8 +1286,8 @@ https://melody-data.github.io/stories/published_stories/story_1687730593.346508.
 
 <div>
 <div class="section-image">
-       <img src="My project-1.jpg" alt="Image 1" width="450" height="190" />
-    </div>
+<img src="My project-1.jpg" alt="Image 1" width="450" height="190" />
+</div>
 
       
     </div>
@@ -1571,6 +1568,6 @@ Thank you for joining us on this data adventure! :)
 
   <div class="section">
     <div class="section-image">
-       <img src="WhatsAppImage2023-07-01 at 11.33.59.jpg.jpg" alt="Image 1" width="350" height="440" />
+       <img src="WhatsAppImage2023-07-01 at 11.33.59.jpg.jpg" alt="Image 1" width="350" height="450" />
   </div>
   
